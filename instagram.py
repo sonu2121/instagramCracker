@@ -1,4 +1,4 @@
-#!/usr/bin/python2.7
+#!/usr/bin/python2
 import requests, sys, threading, time, os, random
 from random import randint
 CheckVersion = str(sys.version)
